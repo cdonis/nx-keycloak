@@ -1,0 +1,4 @@
+{
+  "tenants": "http://localhost:4201",
+  "users": "http://localhost:4202"
+}
